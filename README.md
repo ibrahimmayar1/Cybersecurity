@@ -1,1 +1,2 @@
 # Cybersecurity
+Hello everyone, This repo is developed to provide information about various cybersecurity related content, my acheivements, documents, videos, lecturers, certificates, code, research papers and other relevant information. I am currently focusing on getting various cybersecurity certifications including google cyber security professional, cloud security, network security and other cybersecurity related certifications. I am an acadmetio by profession and love to play my part to improve the overall security of the networks.
